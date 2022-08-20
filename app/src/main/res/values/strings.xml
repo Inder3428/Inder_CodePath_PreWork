@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_from_inder">Hello from Inder</string>
+    <string name="click_here_to_see_magic">Click Here to see magic</string>
+    <string name="user_name">User Name</string>
+    <string name="change_text_color">Change Text color</string>
+    <string name="change_background">change background</string>
+    <string name="change_string">Change String</string>
+</resources>
