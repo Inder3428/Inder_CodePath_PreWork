@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="C:\Users\singh\Downloads\ezgif.com-gif-maker.gif"" width=200><br>
+<img src="C:\Users\singh\Downloads\ezgif.com-gif-maker.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
